@@ -36,7 +36,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            My name's Darren Trieu, a 3rd year CS student specializing in Software Engineering at the University of Toronto Scarborough.
+            My name&apos;s Darren Trieu, a 3rd year CS student specializing in Software Engineering at the University of Toronto Scarborough.
             
           </p>
           <div>
