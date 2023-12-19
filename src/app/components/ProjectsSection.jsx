@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Act It Out",
-    description: "Want an easy way to play Charades online with friends?",
+    description: `Bringing the popular party game Charades online and accessible to everyone`,
     image: "/images/projects/actitout.gif",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/UTSCC09/project-verycoolproject",
