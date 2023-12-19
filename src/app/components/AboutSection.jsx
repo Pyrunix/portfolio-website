@@ -63,13 +63,14 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/about-image.png" width={500} height={500} />
+        <Image src="/images/about-me.jpg" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am a full-time 3rd year student at the University of Toronto Scarborough, studying Computer Science and 
-            specializing in Software Engineering. From both personal and academic work, I have experience in developing
-            web applications, mobile applications, some video games and lots of small programs. I'm constantly searching
+            specializing in Software Engineering. Through both personal and academic work, I have experience in developing
+            web applications, mobile applications, some video games and lots of small programs. A small tidbit about me aside from
+            programming is that I really enjoy a nice cup of coffee. I'm constantly searching
             for opportunities to learn and expand my skillset, and I hope to learn from you as well!
           </p>
           <div className="flex flex-row justify-start mt-8">
