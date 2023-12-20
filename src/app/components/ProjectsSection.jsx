@@ -41,6 +41,15 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "/",
   },
+  {
+    id: 5,
+    title: "System Monitoring Tool",
+    description: "Using C and Linux, this customizable program displays system usage of resources",
+    image: "/images/projects/sysmonitoring.gif",
+    tag: ["All"],
+    gitUrl: "https://github.com/Pyrunix/system-monitoring-tool",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
