@@ -64,7 +64,7 @@ const HeroSection = () => {
         >
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[450px] lg:h-[450px] relative overflow-hidden">
             <img
-              src="/images/portfolio_img.png"
+              src="/images/portfolio-img3.jpg"
               alt="What happened to my photo?"
               className="absolute inset-0 w-full h-full object-cover object-center rounded-full"
             />
