@@ -50,6 +50,15 @@ const projectsData = [
     gitUrl: "https://github.com/Pyrunix/system-monitoring-tool",
     previewUrl: "/",
   },
+  {
+    id: 6,
+    title: "Magic Survivors",
+    description: "Inspired by the game 'Vampire Survivors', a passion project (still in progress) about fighting increasingly difficult hordes of enemies",
+    image: "/images/projects/survivors1.gif",
+    tag: ["All", "Game"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
