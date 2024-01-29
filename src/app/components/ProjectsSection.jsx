@@ -57,7 +57,7 @@ const projectsData = [
     image: "/images/projects/survivors1.gif",
     tag: ["All", "Game"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://pyrunix.itch.io/magic-survivors-2-minute-demo",
   },
 ];
 
