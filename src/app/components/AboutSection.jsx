@@ -67,7 +67,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full-time 4th year student at the University of Toronto Scarborough, studying Computer Science and 
+            I am a 4th year student at the University of Toronto Scarborough, studying Computer Science and 
             specializing in Software Engineering. I am also currently interning at RBC as an Automation Analyst until April 2025.
             Through both personal and academic work, I have experience in developing
             web applications, mobile applications, some video games and lots of small programs. A small tidbit about me aside from
