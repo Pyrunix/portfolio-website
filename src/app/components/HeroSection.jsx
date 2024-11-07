@@ -51,7 +51,7 @@ const HeroSection = () => {
               Contact Me
             </Link>
             <Link
-              href="/resume/Darren_Trieu_Resume___February_2024.pdf"
+              href="/resume/Darren_Trieu_Resume___November_2024.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-100 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
@@ -69,7 +69,7 @@ const HeroSection = () => {
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[450px] lg:h-[450px] relative overflow-hidden">
             <img
               src="/images/portfolio_self.jpg"
-              alt="What happened to my photo?"
+              alt="My photo was supposed to be here"
               className="absolute inset-0 w-full h-full object-cover object-center rounded-full"
             />
           </div>
